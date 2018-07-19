@@ -1,6 +1,6 @@
 ## MyAlligatorFace
 
-`MyAlligatorFace` was developed by [Zeb Girouard](http://portfolio.zebgirouard.com/) for [`alligator.io`].
+`MyAlligatorFace` was developed by [Zeb Girouard](http://portfolio.zebgirouard.com/) for [`alligator.io`](https://alligator.io).
 
 Setup instructions are available in the accompanying [tutorial](https://alligator.io/react/react-native-getting-started/react/react-native-react-navigation) on `alligator.io`.
 
