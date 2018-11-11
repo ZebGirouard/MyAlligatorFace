@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "ylligatorace-20181109132838-authRole",
+            "UnauthRoleArn": "arn:aws:iam::384507591174:role/ylligatorace-20181109132838-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::384507591174:role/ylligatorace-20181109132838-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "ylligatorace-20181109132838-deployment",
+            "UnauthRoleName": "ylligatorace-20181109132838-unauthRole",
+            "StackName": "ylligatorace-20181109132838",
+            "StackId": "arn:aws:cloudformation:us-west-2:384507591174:stack/ylligatorace-20181109132838/0a7af850-e45e-11e8-93f6-500c33711099"
+        }
+    }
+}
